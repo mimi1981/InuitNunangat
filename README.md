@@ -1,5 +1,5 @@
 # InuitNunangat
-A basic page to share our dataset and request feedback on how you would like to use this to address your regional needs
+A basic page to share our dataset and request feedback on how you would like to use this dataset to address your regional needs
 
 
 Hi everyone! 
@@ -11,4 +11,13 @@ Michel Tsamados
 @micheltsamados
 
 
-We are interested to identify the key synergies between our product and the Inuit Nunangat regional needs in terms of safety, health, transport, etc...
+We are interested to identify the key synergies between our product (see image below) and the Inuit Nunangat regional needs in terms of safety, health, transport, etc...
+
+- Sea ice roughness maps are monthly (pan-Arctic), daily (regional) 
+- Resolution is currently at 1km horizontally (paper in prep Johnson et al (2021))
+- 2000 to present coverage (daylight only)
+- Image attached is for March 2019. 
+
+![alt text](https://github.com/mimi1981/InuitNunangat/blob/main/realigned_stdold_HighRes_April_2019_Roughness_Mean_gridspec.png?raw=true)
+
+Please contact me m.tsamados@ucl.ac.uk if you want to find out more about it and for ideas on how you could use it:
