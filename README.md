@@ -18,6 +18,6 @@ We are interested to identify the key synergies between our product (see image b
 - 2000 to present coverage (daylight only)
 - Image attached is for March 2019. 
 
-![alt text](https://github.com/mimi1981/InuitNunangat/blob/main/realigned_stdold_HighRes_April_2019_Roughness_Mean_gridspec.png?raw=true)
+![alt text](https://github.com/mimi1981/InuitNunangat/blob/main/Inuit%20Nunangat2.gif?raw=true)
 
 Please contact me m.tsamados@ucl.ac.uk if you want to find out more about it and for ideas on how you could use it:
