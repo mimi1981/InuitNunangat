@@ -1,4 +1,4 @@
-# InuitNunangat
+# Inuit Nunangat
 A basic page to share our dataset and request feedback on how you would like to use this dataset to address your regional needs
 
 
@@ -11,7 +11,7 @@ Michel Tsamados
 @micheltsamados
 
 
-We are interested to identify the key synergies between our product (see image below) and the Inuit Nunangat regional needs in terms of safety, health, transport, etc...
+We are interested to identify the key synergies between our product (see image below, credit roughness map to Thomas Johnson) and the Inuit Nunangat regional needs in terms of safety, health, transport, etc...
 
 - Sea ice roughness maps are monthly (pan-Arctic), daily (regional) 
 - Resolution is currently at 1km horizontally (paper in prep Johnson et al (2021))
